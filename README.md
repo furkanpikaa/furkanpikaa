@@ -9,4 +9,4 @@
 
 
 ### .contact
-📫 You can reach me at [furkanSırdaş](mailto:fursrd1225@gmail.com).
+📫 You can reach me at [Furkan Sırdaş](mailto:fursrd1225@gmail.com).
