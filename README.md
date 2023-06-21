@@ -16,3 +16,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanpikaa&show_icons=true&locale=en&layout=compact" alt="furkanpikaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanpikaa&" alt="furkanpikaa" /></p>
+
+![snake gif](https://github.com/furkanpikaa/furkanpikaa/blob/output/github-contribution-grid-snake.gif)
