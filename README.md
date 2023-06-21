@@ -30,7 +30,7 @@
 
 <p><img align="left" column="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanpikaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="furkanpikaa" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanpikaa&theme=dark" alt="furkanpikaa" /></p>
+
 
 </br></br>
 </br></br>
