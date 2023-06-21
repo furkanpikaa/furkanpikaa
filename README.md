@@ -28,15 +28,12 @@
 </br></br>
 
 
-<p><img align="left" column="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanpikaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="furkanpikaa" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkanpikaa&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="furkanpikaa" /></p>
 
 
+</br></br>
+</br></br>
+</br></br>
 
-</br></br>
-</br></br>
-</br></br>
-</br></br>
-</br></br>
-</br></br>
 
 ![snake gif](https://github.com/furkanpikaa/furkanpikaa/blob/output/github-contribution-grid-snake.gif)
